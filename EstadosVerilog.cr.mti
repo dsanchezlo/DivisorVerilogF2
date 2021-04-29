@@ -1,0 +1,36 @@
+{C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v} {1 {vlog -work work -stats=none {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplicador
+
+Top level modules:
+	multiplicador
+
+} {} {}} {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v} {1 {vlog -work work -stats=none {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module divfreq
+
+Top level modules:
+	divfreq
+
+} {} {}} {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v} {1 {vlog -work work -stats=none {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module principal
+
+Top level modules:
+	principal
+
+} {} {}} {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v} {1 {vlog -work work -stats=none {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Barrido_displays
+
+Top level modules:
+	Barrido_displays
+
+} {} {}} {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v} {1 {vlog -work work -stats=none {C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module divisor
+
+Top level modules:
+	divisor
+
+} {} {}}
